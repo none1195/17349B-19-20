@@ -1,0 +1,2 @@
+Changelog for Version 6
+-Set-up program in proper competition format

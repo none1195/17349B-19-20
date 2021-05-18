@@ -1,0 +1,4 @@
+Changelog for V2.5
+-Added a virtual counter weight for the arm
+Changelog for V2.5.2
+-Tweaked the arm motor directions

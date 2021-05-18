@@ -1,0 +1,7 @@
+Changelog for version 3.1
+-Various Tweaks to autonomous
+ -Raising arm slightly before picking up cube.
+ -Tweaked times for various delays
+ -Started claw before moving forward a second time
+ -Tweaked Turn Delay
+ -Tweaked Reversing Delay

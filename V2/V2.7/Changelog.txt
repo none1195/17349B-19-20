@@ -1,0 +1,3 @@
+Changelog for V2.7
+-Tweak times in autonomous
+-Split program for the red and blue sides of the field

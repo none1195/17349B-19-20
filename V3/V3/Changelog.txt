@@ -1,0 +1,2 @@
+Changelog for version 3
+-Changed autonomous to place a cube in a small tower

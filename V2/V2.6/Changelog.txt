@@ -1,0 +1,3 @@
+Changelog for V2.6
+-Added Autonomous
+-Switched to Competition format
